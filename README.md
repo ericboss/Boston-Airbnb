@@ -38,6 +38,9 @@ The most relevant features for determining price can be summarized as follows:
 
  - [Predict_positive_or_negative_ratings_based_on_review.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Predict_positive_or_negative_ratings_based_on_review.ipynb): Here, I tried to predict whether a review is positive or negative based on text. I used deep learning(LSTM) to help me predict that.I got an overall accuracy of about 97%
  - [Price_questions.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Price_questions.ipynb): Here I used basic descriptive statistics to answer questions about the data from Boston and Seattle.
+ - [Busiest_period_in_seattle.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Busiest_period_in_seattle.ipynb) Here I plotted the busiest months in Seattle. You have a view of the plot below
+ 
+ ![alt text](https://github.com/ericboss/Boston-Airbnb/blob/master/images/busiest%20month.png)
 
 ## Acknowledgment
  I really want to thank [udacity](https://www.udacity.com/).I am learning a lot from this program.
