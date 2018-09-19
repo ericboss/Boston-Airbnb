@@ -34,7 +34,7 @@ It consists of the folowing
 - [Predict price.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Predict%20price.ipynb): I used lightgbm (a popular machine learning library used in data science competitions) to predict the price of Boston AirBNB homes based on it's listings data, then I plotted out the most important features for determining the price of a home.
 The most relevant features for determining price can be summarized as follows:
 
-![alt text](https://github.com/ericboss/Boston-Airbnb/blob/master/images/predict_price.png)
+![alt text](https://github.com/ericboss/Boston-Airbnb/blob/master/images/predict_price1.png)
 
  - [Predict_positive_or_negative_ratings_based_on_review.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Predict_positive_or_negative_ratings_based_on_review.ipynb): Here, I tried to predict whether a review is positive or negative based on text. I used deep learning(LSTM) to help me predict that.I got an overall accuracy of about 97%
  - [Price_questions.ipynb](https://github.com/ericboss/Boston-Airbnb/blob/master/Price_questions.ipynb): Here I used basic descriptive statistics to answer questions about the data from Boston and Seattle.
